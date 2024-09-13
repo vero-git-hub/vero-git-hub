@@ -1,7 +1,7 @@
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Nice to see you.
 ================================================================================================================================
 
-I'm Software Engineer, and actively contribute to the developer community as a recognized open source contributor. My work in this field has been acknowledged by JetBrains, which granted me licenses for the Ultimate versions of their products in recognition of my contributions.
+My work in this field has been acknowledged by JetBrains, which granted me licenses for the Ultimate versions of their products in recognition of my contributions.
 
 * 🌱  I'm currently working on experimental project
 * ⚡ Exploring the intersection of technology and creativity
